@@ -1,0 +1,163 @@
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #2BAE8E;
+}
+
+.main-menu .navbar-default .navbar-nav .active a {
+    color: #2BAE8E;
+}
+
+.main-menu nav li a::after {
+    background: #2BAE8E;
+}
+
+.typer {
+    color: #2BAE8E !important;
+}
+
+.banner-text h2 {
+    color: #2BAE8E;
+}
+
+.book-btn a {
+    background: #2BAE8E;
+    border: 3px solid #2BAE8E;
+}
+
+.book-btn a:hover {
+    border: 3px solid #2BAE8E;
+}
+
+.hvr-underline-from-center::before {
+    background: #2BAE8E;
+}
+
+.item-type-zoom .item-hover:hover::before {
+    background: rgba(43, 174, 142, 0.55);
+}
+
+.special-box .owl-theme .owl-controls .owl-page.active span {
+    background: #2BAE8E;
+}
+
+.offer-item div h3 {
+    color: #2BAE8E;
+}
+
+.tab-menu .is-active {
+    background: #2BAE8E;
+}
+
+.tab-menu .slick-arrow.slick-prev {
+    background: #2BAE8E url(../../images/back.png) no-repeat center;
+    background-position: 2px 4px;
+}
+
+.tab-menu .slick-arrow.slick-next {
+    background: #2BAE8E url(../../images/next.png) no-repeat center;
+    background-position: 7px 4px;
+}
+
+.offer-item .offer-price {
+    border: 1px solid #2BAE8E;
+}
+
+.sf-team:hover .text-col {
+    background-color: #2BAE8E;
+}
+
+.gal-item a::after {
+    background-color: rgba(43, 174, 142, 0.65);
+}
+
+.overlay i:hover {
+    border: 1px solid #2BAE8E;
+    color: #2BAE8E;
+}
+
+.blog-btn-v a {
+    background: #2BAE8E;
+    border: 3px solid #2BAE8E;
+}
+
+.book-srv a {
+    background: #2BAE8E;
+    border: 3px solid #2BAE8E;
+}
+
+.panel-pricing .panel-heading {
+    background: #2BAE8E;
+}
+
+.panel-pricing {
+    border: 1px solid #2BAE8E;
+}
+
+.panel-body p strong span {
+    color: #2BAE8E;
+}
+
+.pricing-main .panel-footer a {
+    background: #2BAE8E;
+    border: 3px solid #2BAE8E;
+}
+
+.pricing-main .panel-footer a:hover {
+    border: 3px solid #2BAE8E;
+}
+
+.reserve-book-btn button {
+    background: #2BAE8E;
+    border: 3px solid #2BAE8E;
+}
+
+.reserve-book-btn button:hover a {
+    color: #000000;
+}
+
+.footer-news form a {
+    background: #2BAE8E;
+}
+
+.footer-news form a:hover {
+    border: 2px dotted #2BAE8E;
+}
+
+.footer-box-a h3 {
+    color: #2BAE8E;
+}
+
+.footer-box-b h3 {
+    color: #2BAE8E;
+}
+
+.footer-box-c h3 {
+    color: #2BAE8E;
+}
+
+.footer-box-d h3 {
+    color: #2BAE8E;
+}
+
+.footer-box-c p a:hover {
+    color: #2BAE8E;
+}
+
+.footer-box-b ul li a:hover {
+    color: #2BAE8E;
+}
+
+.footer-box .socials-box a:hover .social-circle-border {
+    color: #2BAE8E;
+}
+
+.footer-box-c p i {
+    color: #2BAE8E;
+}
+
+.copyright-main {
+    background: #2BAE8E;
+}
+
+#color-panel a.panel-button:hover {
+    color: #2BAE8E;
+}

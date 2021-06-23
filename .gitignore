@@ -1,0 +1,4 @@
+node_modules
+.env
+src/public/video/animations/
+src/public/video/videos-edit/
